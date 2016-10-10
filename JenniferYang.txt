@@ -2,3 +2,5 @@ Jennifer Yang
 * Born in: Virginia
 
 I love cats
+
+favorite color: purple
