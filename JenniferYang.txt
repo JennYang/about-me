@@ -4,3 +4,4 @@ Jennifer Yang
 I love cats
 
 favorite color: conflict2
+favorite color: conflict1
